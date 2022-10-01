@@ -10,7 +10,7 @@ import webbrowser
 from tkinter import ttk
 
 root = Tk()
-root.title("co")
+root.title("Random password generator")
 
 root.geometry("400x290")
 root["bg"] = "light blue"
